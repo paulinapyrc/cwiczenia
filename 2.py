@@ -1,2 +1,1 @@
-dfdfsd
-dsfsdf
+print ("Witaj")
