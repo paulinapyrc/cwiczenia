@@ -1,0 +1,4 @@
+def potega3(x):
+	return x*x*x
+
+print(potega3(2))
